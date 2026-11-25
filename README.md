@@ -20,9 +20,11 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,linux,git&theme=dark" alt="Python, C, C++, MySQL, Linux, Git" />
 </p>
 
-**Languages & DB**<br>
+**DB**<br>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+
+**Assembly**<br>
 <img src="https://img.shields.io/badge/MIPS%20Assembly-555555?style=flat-square" alt="MIPS Assembly" />
 <img src="https://img.shields.io/badge/AVR%20Assembly-555555?style=flat-square" alt="AVR Assembly" />
 
