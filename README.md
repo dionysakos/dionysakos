@@ -27,6 +27,7 @@
 **Assembly**<br>
 <img src="https://img.shields.io/badge/MIPS-555555?style=flat-square" alt="MIPS Assembly" />
 <img src="https://img.shields.io/badge/AVR-555555?style=flat-square" alt="AVR Assembly" />
+<img src="https://img.shields.io/badge/ARM-555555?style=flat-square" alt="ARM Assembly" />
 
 **Data / Optim**<br>
 <img src="https://img.shields.io/badge/PuLP%20(CBC)-1f6feb?style=flat-square" alt="PuLP" />
