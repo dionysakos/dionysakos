@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Dionysis 👋</h1>
 
-**ECE @ NTUA · Optimization · Stochastic Processes · Game Theory**
+**ECE @ NTUA · Optimization · Operations Research**
 
 ### About me
 
@@ -8,7 +8,6 @@
 - 📐 Focus: **optimization** (LP / MILP), **stochastic processes**, **game theory**
 - ⚡ Applied to **energy markets**: BESS scheduling, market clearing / LMP
 - 📈 Applied to **financial engineering**: volatility & correlation models, credit risk
-- 🏀 Current work: **Euroleague Fantasy**: price-mechanism inference → game-theoretic best-response roster allocation → MPC rebalancing
 - 🧠 Interests: quant trading, hedging & risk under uncertainty, systems-level programming (OS, concurrency, assembly)
 - 🔎 Open to **quant**, **operations analyst** and **solutions architect** internships / roles
 - 🏆 Eurobank Award, top performance in the Panhellenic Exams
