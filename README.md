@@ -17,29 +17,30 @@
 ### Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,linux,git,github,apple&theme=dark" alt="Python, C, C++, MySQL, Linux, Git, GitHub, macOS" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,linux,git&theme=dark" alt="Python, C, C++, MySQL, Linux, Git" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MIPS%20Assembly-555555?style=flat-square" alt="MIPS Assembly" />
-  <img src="https://img.shields.io/badge/AVR%20Assembly-555555?style=flat-square" alt="AVR Assembly" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <br/>
-  <img src="https://img.shields.io/badge/PuLP%20(CBC)-1f6feb?style=flat-square" alt="PuLP" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/statsmodels-3f51b5?style=flat-square" alt="statsmodels" />
-  <img src="https://img.shields.io/badge/XGBoost-189fdd?style=flat-square" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/yfinance-6001d2?style=flat-square" alt="yfinance" />
-  <br/>
-  <img src="https://img.shields.io/badge/pthreads-333333?style=flat-square&logo=linux&logoColor=white" alt="pthreads" />
-  <img src="https://img.shields.io/badge/IPC-333333?style=flat-square" alt="IPC" />
-  <img src="https://img.shields.io/badge/Lock--free%20(CAS%2C%20spinlocks)-333333?style=flat-square" alt="Lock-free concurrency" />
-</p>
+**Languages & DB**&nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
+<img src="https://img.shields.io/badge/MIPS%20Assembly-555555?style=flat-square" alt="MIPS Assembly" />
+<img src="https://img.shields.io/badge/AVR%20Assembly-555555?style=flat-square" alt="AVR Assembly" />
+
+**Data / Optim**&nbsp;
+<img src="https://img.shields.io/badge/PuLP%20(CBC)-1f6feb?style=flat-square" alt="PuLP" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/statsmodels-3f51b5?style=flat-square" alt="statsmodels" />
+<img src="https://img.shields.io/badge/XGBoost-189fdd?style=flat-square" alt="XGBoost" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/yfinance-6001d2?style=flat-square" alt="yfinance" />
+
+**Systems**&nbsp;
+<img src="https://img.shields.io/badge/pthreads-333333?style=flat-square&logo=linux&logoColor=white" alt="pthreads" />
+<img src="https://img.shields.io/badge/IPC-333333?style=flat-square" alt="IPC" />
+<img src="https://img.shields.io/badge/Lock--free%20(CAS%2C%20spinlocks)-333333?style=flat-square" alt="Lock-free concurrency" />
 
 ---
 
